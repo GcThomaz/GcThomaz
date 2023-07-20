@@ -18,7 +18,7 @@
  </div><br/> 
 
  ### 🤖 Welcome to my GitHub Profile!!! 🤖
-
+<br>
  <p align="center"> 
   <img src="https://wakatime.com/badge/user/7b5b8ecb-0832-47fa-b060-bf823e3d891d.svg" alt="Wakatime"> • 
   <img src="https://komarev.com/ghpvc/?username=GcThomaz&color=blue" alt="Gustavo"> •  

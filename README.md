@@ -104,5 +104,6 @@ My name is Gustavo, and I'm a passionate Full Stack and Backend Developer with a
   
 </div> <br>
 
+## :snake: Activities : 
 ![snake gif](https://github.com/GcThomaz/GcThomaz/blob/output/github-contribution-grid-snake.svg)
 
